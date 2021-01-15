@@ -1,0 +1,47 @@
+
+.sp1{
+    position: relative; 
+	bottom: 70px;
+    left: -270px;
+}
+.sp2{
+    position: relative; 
+	top: -180px;
+	left: -120px;
+    
+    
+}
+.sp3{
+    position: relative; 
+	top: -180px;
+	left: -120px;
+    
+    
+}
+.id{
+    position: relative; 
+	bottom: -80px;
+	left: -400px;
+}
+.albums{
+    width: 20%;
+    flex-grow: 1;
+    border-radius: 20%;
+    height:auto;
+}
+
+
+
+  .card{
+      border: 500px solid red !important;
+      border-radius: 50% !important;
+  }
+
+  .searchBar{
+      width: 100%;
+  }
+
+  .sp1,.sp2,.sp3,.users,.songs{
+      flex-grow: 1;
+
+  }
